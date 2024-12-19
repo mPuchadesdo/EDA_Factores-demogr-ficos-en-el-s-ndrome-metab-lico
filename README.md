@@ -16,13 +16,13 @@ Utilizando la librería Pandas de Python vamos a convertir el dataset en un Data
 Una vez terminado esta limpieza y transformación del dataset, pasamos a realizar un análisis estadístico de las variables:
 
 
-#### Análisis univariante
+## Análisis univariante
 Realizamos un estudio de las medidas de tendencia central en todas las variables:
 -	Obtenemos la distribución de las variables categóricas como frecuencia relativa y su moda.
 -	Observamos la distribución de las variables numéricas mediante histogramas y diagramas de cajas y bigotes. Además, obtenemos media, mediana, percentiles mínimos y máximos.
 
 
-#### Análisis bivariante
+## Análisis bivariante
 Cruzamos las variables para ver si encontramos relaciones entre unas y otras, centrándonos principalmente en las variables demográficas. Profundizamos principalmente en los ingresos, el estado civil y la etnia de los diferentes sujetos, para ver cómo se relacionan entre sí y cómo se relacionan con el diagnóstico o no de síndrome metabólico.
 
 ------
